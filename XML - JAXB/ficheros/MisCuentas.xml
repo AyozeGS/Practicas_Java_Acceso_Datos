@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<libroCuentas>
+    <años>
+        <año>
+            <num_año>2020</num_año>
+            <meses>
+                <mes id="Enero">
+                    <num_mes>01</num_mes>
+                    <dias>
+                        <dia>
+                            <num_dia>03</num_dia>
+                            <movimientos>
+<movimiento>
+    <concepto>Reyes Magos</concepto>
+    <importe>-460</importe>
+</movimiento>
+<movimiento>
+    <concepto>Telefono</concepto>
+    <importe>-200</importe>
+</movimiento>
+<movimiento>
+    <concepto>Nomina</concepto>
+    <importe>1300</importe>
+</movimiento>
+<movimiento>
+    <concepto>Luz</concepto>
+    <importe>-65</importe>
+</movimiento>
+                            </movimientos>
+                        </dia>
+                        <dia>
+                            <num_dia>15</num_dia>
+                            <movimientos>
+<movimiento>
+    <concepto>Prestamo</concepto>
+    <importe>2000</importe>
+</movimiento>
+                            </movimientos>
+                        </dia>
+                    </dias>
+                </mes>
+                <mes id="Marzo">
+                    <num_mes>03</num_mes>
+                    <dias>
+                        <dia>
+                            <num_dia>10</num_dia>
+                            <movimientos>
+<movimiento>
+    <concepto>Compra</concepto>
+    <importe>-150</importe>
+</movimiento>
+                            </movimientos>
+                        </dia>
+                    </dias>
+                </mes>
+            </meses>
+        </año>
+        <año>
+            <num_año>2019</num_año>
+            <meses>
+                <mes id="Diciembre">
+                    <num_mes>12</num_mes>
+                    <dias>
+                        <dia>
+                            <num_dia>23</num_dia>
+                            <movimientos>
+<movimiento>
+    <concepto>Cena Navidad</concepto>
+    <importe>-125</importe>
+</movimiento>
+                            </movimientos>
+                        </dia>
+                    </dias>
+                </mes>
+            </meses>
+        </año>
+    </años>
+</libroCuentas>

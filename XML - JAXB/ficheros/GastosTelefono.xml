@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<libroCuentas>
+    <años>
+        <año>
+            <num_año>2020</num_año>
+            <meses>
+                <mes id="Febrero">
+                    <num_mes>02</num_mes>
+                    <dias>
+                        <dia>
+                            <num_dia>04</num_dia>
+                            <movimientos>
+<movimiento>
+    <concepto>Fusion Casa</concepto>
+    <importe>65</importe>
+</movimiento>
+<movimiento>
+    <concepto>Plazo Smartphone</concepto>
+    <importe>10</importe>
+</movimiento>
+<movimiento>
+    <concepto>Movil Trabajo</concepto>
+    <importe>20</importe>
+</movimiento>
+                            </movimientos>
+                        </dia>
+                    </dias>
+                </mes>
+                <mes id="Enero">
+                    <num_mes>01</num_mes>
+                    <dias>
+                        <dia>
+                            <num_dia>06</num_dia>
+                            <movimientos>
+<movimiento>
+    <concepto>Plazo Smartphone</concepto>
+    <importe>10</importe>
+</movimiento>
+<movimiento>
+    <concepto>Fusion Casa</concepto>
+    <importe>65</importe>
+</movimiento>
+<movimiento>
+    <concepto>Movil Trabajo</concepto>
+    <importe>20</importe>
+</movimiento>
+                            </movimientos>
+                        </dia>
+                    </dias>
+                </mes>
+            </meses>
+        </año>
+        <año>
+            <num_año>2019</num_año>
+            <meses>
+                <mes id="Diciembre">
+                    <num_mes>12</num_mes>
+                    <dias>
+                        <dia>
+                            <num_dia>04</num_dia>
+                            <movimientos>
+<movimiento>
+    <concepto>Pago Inicial Smartphone</concepto>
+    <importe>200</importe>
+</movimiento>
+<movimiento>
+    <concepto>Fusion Casa</concepto>
+    <importe>60</importe>
+</movimiento>
+<movimiento>
+    <concepto>Movil Trabajo</concepto>
+    <importe>35</importe>
+</movimiento>
+                            </movimientos>
+                        </dia>
+                    </dias>
+                </mes>
+            </meses>
+        </año>
+    </años>
+</libroCuentas>
